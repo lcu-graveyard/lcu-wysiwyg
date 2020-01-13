@@ -1,6 +1,6 @@
 {
 	"name": "@fathym-it/lcu-wysiwyg",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"scripts": {
 		"build:common": "ng build common",
 		"build:demo": "ng build demo --prod",
