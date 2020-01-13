@@ -1,6 +1,10 @@
 # LcuWysiwyg
 
+<<<<<<< HEAD
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.22.
+=======
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.4.
+>>>>>>> 799ab42d9436fa1d1db35b6e22b8815f62bcd70e
 
 ## Development server
 

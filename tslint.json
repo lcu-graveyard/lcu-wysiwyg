@@ -48,6 +48,10 @@
     "no-non-null-assertion": true,
     "no-redundant-jsdoc": true,
     "no-switch-case-fall-through": true,
+<<<<<<< HEAD
+=======
+    "no-use-before-declare": true,
+>>>>>>> 799ab42d9436fa1d1db35b6e22b8815f62bcd70e
     "no-var-requires": false,
     "object-literal-key-quotes": [
       true,
