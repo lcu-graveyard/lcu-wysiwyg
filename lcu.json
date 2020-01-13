@@ -1,0 +1,20 @@
+{
+	"templates": {
+		"repository": "lowcodeunit-devkit/lcu-cli-templates-core",
+		"scope": "@fathym-it",
+		"workspace": "lcu-wysiwyg"
+	},
+	"config": {
+		"wc": [
+			"wc/lcu-wysiwyg.lcu.js"
+		],
+		"solutions": {
+			"grapesjs": {
+				"element": "lcu-wysiwyg-grapesjs-element"
+			}
+		},
+		"elements": {},
+		"data-flow": {},
+		"dependencies": {}
+	}
+}
