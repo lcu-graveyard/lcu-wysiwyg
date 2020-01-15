@@ -30,8 +30,12 @@ export class LcuWysiwygGrapesjsElementComponent extends LcuElementComponent<LcuW
 
     grapesjs.init({
       container : '#gjs',
-      components: '<div class="txt-red">Hello world!</div>',
-      style: '.txt-red{color: red}',
+      plugins: ['gjs-preset-webpage'],
+      pluginsOpts: {
+        'gjs-preset-webpage': {
+          // options
+        }
+      }
     });
   }
 

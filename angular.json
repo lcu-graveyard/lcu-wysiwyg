@@ -73,7 +73,8 @@
             ],
             "styles": [
               "projects/lcu/src/styles.scss",
-              "node_modules/grapesjs/dist/css/grapes.min.css"
+              "node_modules/grapesjs/dist/css/grapes.min.css",
+              "node_modules/grapesjs-preset-webpage/dist/grapesjs-preset-webpage.min.css"
             ],
             "scripts": [
               "node_modules/@webcomponents/custom-elements/src/native-shim.js",
@@ -86,7 +87,8 @@
                 "input": "node_modules/@webcomponents/webcomponentsjs/bundles/webcomponents-sd-ce-pf.js"
               },
               "node_modules/jquery/dist/jquery.min.js",
-              "node_modules/grapesjs/dist/grapes.min.js"
+              "node_modules/grapesjs/dist/grapes.min.js",
+              "node_modules/grapesjs-preset-webpage/dist/grapesjs-preset-webpage.min.js"
             ]
           },
           "configurations": {
@@ -201,11 +203,13 @@
             ],
             "styles": [
               "projects/demo/src/styles.scss",
-              "node_modules/grapesjs/dist/css/grapes.min.css"
+              "node_modules/grapesjs/dist/css/grapes.min.css",
+              "node_modules/grapesjs-preset-webpage/dist/grapesjs-preset-webpage.min.css"
             ],
             "scripts": [
               "node_modules/jquery/dist/jquery.min.js",
-              "node_modules/grapesjs/dist/grapes.min.js"
+              "node_modules/grapesjs/dist/grapes.min.js",
+              "node_modules/grapesjs-preset-webpage/dist/grapesjs-preset-webpage.min.js"
             ]
           },
           "configurations": {
